@@ -1,0 +1,10 @@
+.container > span {
+    color: white;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    padding: 1rem;
+}
